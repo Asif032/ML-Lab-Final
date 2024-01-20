@@ -1,2 +1,3 @@
 /pneumonia_detector/data
+/pneumonia_detector/pneumonia_detection_model.h5
 /bank_customer_predictor/data
